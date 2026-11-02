@@ -395,7 +395,7 @@ p {
     height: 600px;
     animation: reveal linear both;
     animation-timeline: view(120% 5%);
-    margin: 40px;
+    margin: 100px;
     transform: translateY(-70px);
     grid-area: 1 / 1 / 4 / 2;
     mask-image: linear-gradient(0deg, #00000088 50%, #ffffff44 100%);
